@@ -1,3 +1,12 @@
-### improving coding skills  💻
+<pre>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iitsmel&layout=compact&theme=dracula)](https://github.com/iitsmel/github-readme-stats)  
+
+
+Hello! I am Melissa. I am either coding or cooking.
+You can find me down the streets, in the crossway of 2010 and 2019.
+I am here and I am not.
+Yes, I know I am weird.
+No, I don't mind you take a sit.
+I’ve got a jar of dirt. ⚓️
+
+</pre>
