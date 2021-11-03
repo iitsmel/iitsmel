@@ -11,6 +11,4 @@ I’ve got a jar of dirt. ⚓️
 
 </pre>
 
-[<img src="https://user-images.githubusercontent.com/68285613/135728432-7620b245-5227-48b9-9688-d1cc6080b8ff.png" width="250"/>](https://www.youtube.com/watch?v=AYKYvVkhIYo) 
-
 
